@@ -1,2 +1,3 @@
-# TF2OCL
-Library to infer TF 2.x models with OpenCL
+# tf2ocl
+C++ project for OpenCL based distributed inference of Tensorflow model. Presently supports necessary layers to run Resnet-XX and U-Net architecture. 
+Work in Progress ....
